@@ -31,7 +31,7 @@ Google의 새로운 운영체제와 관련 있다
 
 해당 경로를 “시스템 환경 변수 편집” 에 들어가 “고급” > “환경변수” > “PATH”에 등록해주면, 어디서든 flutter 및 dart 명령 사용 가능
 
-![Untitled](1%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%20Install%20&%20Dart%20Basics%20f3daaadd43134ccebc640e8d9f2a6387/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/88659167/222979240-4b191545-19c4-49af-b090-bc6944343bf0.png)
 
 cmd 에 들어가 `flutter --version` 명령어 입력했을 때, 버전이 잘 출력되었다면 성공!
 
@@ -57,7 +57,7 @@ Congiure > Plugins 에서 Flutter와 Dart 플러그인 설치하고 재시작
 
 ## 4. 콘솔에 `flutter doctor` 실행
 
-![Untitled](1%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%20Install%20&%20Dart%20Basics%20f3daaadd43134ccebc640e8d9f2a6387/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/88659167/222979239-dcbbbc99-1253-480e-a127-64727bd9d96f.png)
 
 `flutter doctor` 실행했을 때, 이슈 없는지 확인
 이슈 없으면 Flutter 환경 구성 성공!
