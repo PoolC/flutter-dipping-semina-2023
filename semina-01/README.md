@@ -1,4 +1,5 @@
-<div align="center">
+<div style="margin-right: 30px;">
+	
 # 1회차 : Install & Dart Basics
 
 # 1. Flutter?
