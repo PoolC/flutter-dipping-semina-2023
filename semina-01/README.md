@@ -1,8 +1,5 @@
+<div align="center">
 # 1회차 : Install & Dart Basics
-
-Date: February 4, 2023
-Status: Done
-Week: 1
 
 # 1. Flutter?
 
@@ -488,3 +485,4 @@ int add3(int num1, int num2) => num1+num2;
 ```
 
 ### Set
+</div>
