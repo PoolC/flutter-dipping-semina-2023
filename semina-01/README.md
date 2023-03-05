@@ -466,9 +466,11 @@ int add3(int num1, int num2) => num1+num2;
 ```
 
 1. **positional parameter**
-순서 지키기
-2. ************************************optional parameter
-`[ ]`** 안에 parameter를 넣으면, optional 
+
+   순서 지키기
+2. **optional parameter**
+
+   `[ ]`** 안에 parameter를 넣으면, optional 
 3. **********named parameter**********
 
 ### 9. Collection
