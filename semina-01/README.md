@@ -1,4 +1,4 @@
-<div style="margin-right: 150px; margin-left: 150px;">
+<div style="margin-right: 200px; margin-left: 200px;">
 	
 # 1회차 : Install & Dart Basics
 
