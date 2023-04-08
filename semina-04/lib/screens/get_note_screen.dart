@@ -2,12 +2,13 @@ import 'package:flutter/material.dart';
 
 class GetNoteScreen extends StatefulWidget {
   const GetNoteScreen({Key? key}) : super(key: key);
-
   @override
   State<GetNoteScreen> createState() => _GetNoteScreenState();
 }
 
 class _GetNoteScreenState extends State<GetNoteScreen> {
+  TextEditingController textEditingController = TextEditingController();
+  TextEditingController textEditingController = TextEditingController();
   @override
   Widget build(BuildContext context) {
     return Scaffold(

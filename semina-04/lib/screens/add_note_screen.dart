@@ -33,7 +33,7 @@ class _NoteDetailScreenState extends State<AddNoteScreen> {
             TextField(
               controller: titleEditingController,
               decoration: const InputDecoration(
-                  border: InputBorder.none, hintText: '제목'),
+                  border: InputBorder.none, hintText: 'Title'),
               style: const TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
             ),
             Expanded(
@@ -43,6 +43,7 @@ class _NoteDetailScreenState extends State<AddNoteScreen> {
               decoration: const InputDecoration(
                 border: InputBorder.none,
               ),
+
             ))
           ],
         ),
